@@ -10,8 +10,8 @@ Tools used: Sci-Kit Learn, Keras, Tensorflow, OpenCV
 
 ### How to view
 
-To view the project, open the Jupyter notebook `facial_expression_classifier_v1.ipynb` or click [here](/facial_expression_classifier_v1.ipynb "here").
+To view the project click [here](/facial_expression_classifier_v1.ipynb "here") or open the Jupyter notebook `facial_expression_classifier_v1.ipynb` in this repository.
 
 ### Video demo of the project
 
-![video_demo](/BS_FEC.mp4 "video_demo")
+Download and watch the video_demo [here](/BS_FEC.mp4 "video_demo")
