@@ -14,4 +14,4 @@ To view the project click [here](/facial_expression_classifier_v1.ipynb "here") 
 
 ### Video demo of the project
 
-Download and watch the video_demo [here](/BS_FEC.mp4 "video_demo")
+Download and watch the video_demo [here](/BS_FEC.mp4 "video_demo").
