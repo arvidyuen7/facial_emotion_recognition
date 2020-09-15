@@ -14,4 +14,4 @@ To view the project click [here](/facial_expression_classifier_v1.ipynb "here") 
 
 ### Video demo of the project
 
-Download and watch the video demo [here](/video/BS_FEC.mp4 "video_demo") or see the video in [this post](https://www.linkedin.com/posts/arvidyuen7_last-week-i-completed-the-brainstation-data-ugcPost-6684959265129660416-MT_f) on my LinkedIn profile.
+Download and watch the video demo from [here](/video/BS_FEC.mp4 "video_demo") or see the video in [this post](https://www.linkedin.com/posts/arvidyuen7_last-week-i-completed-the-brainstation-data-ugcPost-6684959265129660416-MT_f) on my LinkedIn profile.
